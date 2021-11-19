@@ -1,0 +1,13 @@
+The Github Page Link-
+https://github.com/PatrickBlak/Personal-CV.git
+ https://patrickblak.github.io/Personal-CV/
+i forgot which github link to add so i just put both into the text file
+
+<1>I have included a new image into the cv of a koala
+<2>I have added links for dublin zoo called "zoo contact" and coillte "forestry contact" under contact info
+<3>I have added a new list called "Favorite animals"
+<4>I edited the headings under "projects" through use of the css file style,changing color,text alignment,border and font
+<5>I have added a table called "Education"
+
+Student Name:Jack Patrick Blake Farrell
+Student Number: 18326313
